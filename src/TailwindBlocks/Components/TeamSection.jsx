@@ -13,7 +13,7 @@ const TeamSection = () => {
     <div className="flex flex-wrap -m-2">
       <div className="p-2 lg:w-1/3 md:w-1/2 w-full">
         <div className="h-full flex items-center border-gray-200 border p-4 rounded-lg">
-          <img alt="team" className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="assets/team1.webp"/>
+          <img alt="team" className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4"  src="assets/img11.jpeg"/>
           <div className="flex-grow">
             <h2 className="text-gray-500 title-font font-medium">Holden Caulfield</h2>
             <p className="text-gray-500">UI Designer</p>
@@ -49,7 +49,7 @@ const TeamSection = () => {
       </div>
       <div className="p-2 lg:w-1/3 md:w-1/2 w-full">
         <div className="h-full flex items-center border-gray-200 border p-4 rounded-lg">
-          <img alt="team" className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="assets/team5.avif"/>
+          <img alt="team" className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="assets/team1.webp"/>
           <div className="flex-grow">
             <h2 className="text-gray-500 title-font font-medium">Martin Eden</h2>
             <p className="text-gray-500">Software Engineer</p>
@@ -58,7 +58,7 @@ const TeamSection = () => {
       </div>
       <div className="p-2 lg:w-1/3 md:w-1/2 w-full">
         <div className="h-full flex items-center border-gray-200 border p-4 rounded-lg">
-          <img alt="team" className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="assets/team1.webp"/>
+          <img alt="team" className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="assets/img12.jpeg"/>
           <div className="flex-grow">
             <h2 className="text-gray-500 title-font font-medium">Boris Kitua</h2>
             <p className="text-gray-500">UX Researcher</p>
@@ -67,7 +67,7 @@ const TeamSection = () => {
       </div>
       <div className="p-2 lg:w-1/3 md:w-1/2 w-full">
         <div className="h-full flex items-center border-gray-200 border p-4 rounded-lg">
-          <img alt="team" className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="assets/team2.webp"/>
+          <img alt="team" className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="assets/img13.jpeg"/>
           <div className="flex-grow">
             <h2 className="text-gray-500 title-font font-medium">Atticus Finch</h2>
             <p className="text-gray-500">QA Engineer</p>
@@ -76,7 +76,7 @@ const TeamSection = () => {
       </div>
       <div className="p-2 lg:w-1/3 md:w-1/2 w-full">
         <div className="h-full flex items-center border-gray-200 border p-4 rounded-lg">
-          <img alt="team" className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="assets/team3.png"/>
+          <img alt="team" className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="assets/img11.jpeg"/>
           <div className="flex-grow">
             <h2 className="text-gray-500 title-font font-medium">Alper Kamu</h2>
             <p className="text-gray-500">System</p>

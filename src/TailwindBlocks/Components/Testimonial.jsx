@@ -18,7 +18,7 @@ const Testimonial = () => {
       </div>
       <div className="lg:w-1/3 lg:mb-0 mb-6 p-4">
         <div className="h-full text-center">
-          <img alt="testimonial" className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 border-gray-200 bg-gray-100" src="assets/team2.webp"/>
+          <img alt="testimonial" className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 border-gray-200 bg-gray-100" src="assets/img11.jpeg"/>
           <p className="leading-relaxed">So many amazing flavors to choose from! The texture is smooth, and the taste is just heavenly. Definitely the best ice cream in town!" – ⭐⭐⭐⭐⭐</p>
           <span className="inline-block h-1 w-10 rounded bg-indigo-500 mt-6 mb-4"></span>
           <h2 className="text-gray-500 font-medium title-font tracking-wider text-sm">ALPER KAMU</h2>
