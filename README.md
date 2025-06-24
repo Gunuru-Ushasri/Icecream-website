@@ -27,26 +27,6 @@ This is a responsive and visually appealing landing page project built with **Ta
 - ✅ **Tailblocks UI**
 - ✅ **React.js**
 
- ## 📁 Folder Structure
-
-ice-cream-delight/
-├── public/
-│ └── images/ (ice cream images)
-├── src/
-│ ├── components/
-│ │ ├── Navbar.jsx
-│ │ ├── Hero.jsx
-│ │ ├── Gallery.jsx
-│ │ ├── Features.jsx
-│ │ ├── Pricing.jsx
-│ │ ├── Team.jsx
-│ │ └── Feedback.jsx
-│ ├── App.jsx
-│ └── index.js
-├── tailwind.config.js
-└── README.md
-
-
 
 ## Project Link
 https://icecream-website-git-main-gunuru-ushasris-projects.vercel.app/
